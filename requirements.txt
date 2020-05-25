@@ -1,0 +1,11 @@
+camphr[udify]==0.5.23
+fire==0.2.1
+ginza==3.1.1
+mecab-python3==0.996.5
+mojimoji==0.0.11
+responder==2.0.5
+stanza==1.0.1
+unofficial-pyknp==0.4.1
+https://github.com/PKSHATechnology-Research/camphr_models/releases/download/0.5/ja_mecab_udify-0.5.tar.gz
+https://github.com/PKSHATechnology-Research/camphr_models/releases/download/0.5/en_udify-0.5.tar.gz
+
